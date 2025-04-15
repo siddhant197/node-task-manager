@@ -8,8 +8,8 @@
     "test": "jest --watch --runInBand"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Siddhant Aggarwal",
+  "license": "MIT",
   "description": "",
   "dependencies": {
     "bcryptjs": "^3.0.2",
